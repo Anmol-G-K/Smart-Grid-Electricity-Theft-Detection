@@ -1,1 +1,2 @@
 Konnichiwa
+Sayonara
