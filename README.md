@@ -50,5 +50,4 @@ graph TD;
     P3 --> Q
     P4 --> Q
     Q --> R[End]
-
 ```
