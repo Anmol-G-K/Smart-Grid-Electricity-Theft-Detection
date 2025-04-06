@@ -1,4 +1,4 @@
-![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 
 <h1 align="center">⚡ Electricity Theft Detection using Machine Learning</h1>
 
@@ -138,10 +138,10 @@ Trained and tested various models:
 
 ## 👨‍💻 Contributors
 
-- ![Aryan](https://www.linkedin.com/in/aryan-jaljith-64283b240/)
-- ![Karthik](https://www.linkedin.com/in/karthik-krishnamurthi)
-- ![Namitha](https://www.linkedin.com/in/namitha-madhu-4934a8276/)
-- ![Anmol](https://www.linkedin.com/in/anmolkrish/)
+- [Aryan](https://www.linkedin.com/in/aryan-jaljith-64283b240/)
+- [Karthik](https://www.linkedin.com/in/karthik-krishnamurthi)
+- [Namitha](https://www.linkedin.com/in/namitha-madhu-4934a8276/)
+- [Anmol](https://www.linkedin.com/in/anmolkrish/)
 ---
 
 ## 📜 License
