@@ -138,10 +138,10 @@ Trained and tested various models:
 
 ## 👨‍💻 Contributors
 
-- ![Aryan]()
-- ![Karthik]()
-- ![Namitha]()
-- ![Anmol]()
+- ![Aryan](https://www.linkedin.com/in/aryan-jaljith-64283b240/)
+- ![Karthik](https://www.linkedin.com/in/karthik-krishnamurthi)
+- ![Namitha](https://www.linkedin.com/in/namitha-madhu-4934a8276/)
+- ![Anmol](https://www.linkedin.com/in/anmolkrish/)
 ---
 
 ## 📜 License
