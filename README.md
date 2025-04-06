@@ -67,10 +67,10 @@ Used the following resampling and weighting techniques:
 ### 🧠 3. Model Development
 Trained and tested various models:
 - Logistic Regression
-- Support Vector Machines
+- Extra Trees Classifier
 - Decision Trees and Random Forest
 - Gradient Boosting and **XGBoost**
-- **Artificial Neural Networks (ANN)**
+<!-- - **Artificial Neural Networks (ANN)** -->
 - **Stacking Classifier (Ensemble of best models)**
 
 ### 📈 4. Model Evaluation
@@ -120,8 +120,8 @@ Trained and tested various models:
 ## 🔧 Tech Stack
 
 - **Python**
-- **scikit-learn**, **imbalanced-learn**
-- **XGBoost**, **Keras** 
+- **scikit-learn**, **imbalanced-learn**, **Class Weights**
+- **XGBoost**, **LightGBM**, **Random Forest**, **Logistic Regression**, **Extra Trees Classifier**
 - **Matplotlib**, **Seaborn** (visualization)
 - **Jupyter Notebooks** for experimentation
 
@@ -131,7 +131,6 @@ Trained and tested various models:
 
 - Integrate **Time-Series Models** (LSTM/GRU) for temporal theft pattern learning
 - Explore **Anomaly Detection** methods (Isolation Forest, Autoencoders)
-- Deploy model as a REST API using Flask or FastAPI
 - Integrate into real-time power monitoring systems with alert triggers
 
 ---
