@@ -122,7 +122,7 @@ Trained and tested various models:
 ## 🔧 Tech Stack
 
 - **Python**
-- **scikit-learn**, **imbalanced-learn**, **Class Weights**
+- **scikit-learn**,**Seaborn** , **Matplotlib** , **imbalanced-learn**, **Class Weights**
 - **XGBoost**, **LightGBM**, **Random Forest**, **Logistic Regression**, **Extra Trees Classifier**
 - **Matplotlib**, **Seaborn** (visualization)
 - **Jupyter Notebooks** for experimentation
